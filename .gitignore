@@ -14,3 +14,8 @@ android/**/build/
 *.log
 .env
 .env.*
+
+# Archives (avoid accidental huge uploads)
+*.zip
+*.7z
+*.rar
