@@ -1,0 +1,16 @@
+# IDE
+.idea/
+
+# Android / Gradle generated files
+android/.gradle/
+android/build/
+android/**/build/
+
+# Kotlin/Java build artifacts
+*.class
+*.dex
+
+# Logs and local environment files
+*.log
+.env
+.env.*
